@@ -25,7 +25,8 @@
 6. Derive sentiment of content over the years in Netflix.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![lllll](https://github.com/SnigdhaVrma/Netflix_Data_Analysis/assets/133538251/d4065612-2357-44e0-9ef8-16042899dbe0)Eye_Opening Insights:
+![lllll](https://github.com/SnigdhaVrma/Netflix_Data_Analysis/assets/133538251/d4065612-2357-44e0-9ef8-16042899dbe0)
+# Eye_Opening Insights:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. This visual showcases the trend of content production on Netflix over a specific timeframe. It illustrates how the volume of content released on the platform has changed over the years, offering insights into the growth and expansion of Netflix's library.
 
